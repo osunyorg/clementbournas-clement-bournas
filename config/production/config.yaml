@@ -2,6 +2,11 @@
 
 baseURL: https://clement-bournas.clementbournas.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 86dc3ba5-ed68-406c-83ff-0373f0985af1
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
