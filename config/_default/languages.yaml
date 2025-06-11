@@ -10,10 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    pages_categories: /:slug/
-    projects: /projets-1/:year-:slug/
-    projects_categories: /projets-1/:slug/
   taxonomies:
     administrator: administrators
     author: authors
